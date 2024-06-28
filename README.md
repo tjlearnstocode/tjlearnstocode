@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjlearnstocode
 - 👀 I’m interested in devloping code and also Excel
-- 🌱 I’m currently learning Data Science, but want to also learn
+- 🌱 I’m currently learning Data Science, but want to also learn how to develop programs and local server hosting
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I started messing with code when I was 10 by editing game files through text editor
 
